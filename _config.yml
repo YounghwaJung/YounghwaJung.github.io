@@ -13,9 +13,9 @@ author:
   url:               https://twitter.com/mdo
   email:             markdotto@gmail.com
 
-# Gems
 plugins:
   - jekyll-paginate
+  - jekyll-gist
 
 # Custom vars
 version:             1.1.0
