@@ -2,19 +2,16 @@
 layout: post
 title: Y.H Jung
 ---
+I am a Staff Researcher at Samsung Advanced Institute of Technology (SAIT). I received my PhD from Electrical and Computer Engineering at the Seoul National University, where I worked with Prof. Seong-Woo Kim and Prof. Seung-woo Seo.
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) 
 
+<!--
 ### Built on Poole
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
-
+Poole is the Jekyll Butler, 
 * Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
 * Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+
 
 ### Lanyon features
 
@@ -36,3 +33,5 @@ Lanyon is by preference a forward-thinking project. In addition to the latest ve
 Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.
 
 Thanks!
+
+-->
